@@ -1,0 +1,544 @@
+{
+  "data": {
+    "items": [
+      {
+        "dictionaryCode": "059_Ethnicity",
+        "dictionaryId": 474,
+        "dictionaryName": "外国血统中国籍人士",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "058_Ethnicity",
+        "dictionaryId": 473,
+        "dictionaryName": "其他",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "057_Ethnicity",
+        "dictionaryId": 472,
+        "dictionaryName": "穿青人族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "056_Ethnicity",
+        "dictionaryId": 471,
+        "dictionaryName": "基诺族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "055_Ethnicity",
+        "dictionaryId": 470,
+        "dictionaryName": "珞巴族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "054_Ethnicity",
+        "dictionaryId": 469,
+        "dictionaryName": "门巴族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "053_Ethnicity",
+        "dictionaryId": 468,
+        "dictionaryName": "赫哲族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "052_Ethnicity",
+        "dictionaryId": 467,
+        "dictionaryName": "鄂伦春族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "051_Ethnicity",
+        "dictionaryId": 466,
+        "dictionaryName": "独龙族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "050_Ethnicity",
+        "dictionaryId": 465,
+        "dictionaryName": "塔塔尔族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "049_Ethnicity",
+        "dictionaryId": 464,
+        "dictionaryName": "京族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "048_Ethnicity",
+        "dictionaryId": 463,
+        "dictionaryName": "裕固族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "047_Ethnicity",
+        "dictionaryId": 462,
+        "dictionaryName": "保安族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "046_Ethnicity",
+        "dictionaryId": 461,
+        "dictionaryName": "德昂族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "045_Ethnicity",
+        "dictionaryId": 460,
+        "dictionaryName": "鄂温克族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "044_Ethnicity",
+        "dictionaryId": 459,
+        "dictionaryName": "俄罗斯族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "043_Ethnicity",
+        "dictionaryId": 458,
+        "dictionaryName": "乌孜别克族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "042_Ethnicity",
+        "dictionaryId": 457,
+        "dictionaryName": "怒族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "041_Ethnicity",
+        "dictionaryId": 456,
+        "dictionaryName": "塔吉克族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "040_Ethnicity",
+        "dictionaryId": 455,
+        "dictionaryName": "普米族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "039_Ethnicity",
+        "dictionaryId": 454,
+        "dictionaryName": "阿昌族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "038_Ethnicity",
+        "dictionaryId": 453,
+        "dictionaryName": "锡伯族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "037_Ethnicity",
+        "dictionaryId": 452,
+        "dictionaryName": "仡佬族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "036_Ethnicity",
+        "dictionaryId": 451,
+        "dictionaryName": "毛难族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "035_Ethnicity",
+        "dictionaryId": 450,
+        "dictionaryName": "撒拉族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "034_Ethnicity",
+        "dictionaryId": 449,
+        "dictionaryName": "布朗族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "033_Ethnicity",
+        "dictionaryId": 448,
+        "dictionaryName": "羌族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "032_Ethnicity",
+        "dictionaryId": 447,
+        "dictionaryName": "仫佬族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "031_Ethnicity",
+        "dictionaryId": 446,
+        "dictionaryName": "达斡尔族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "030_Ethnicity",
+        "dictionaryId": 445,
+        "dictionaryName": "土族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "029_Ethnicity",
+        "dictionaryId": 444,
+        "dictionaryName": "柯尔克孜族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "028_Ethnicity",
+        "dictionaryId": 443,
+        "dictionaryName": "景颇族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "027_Ethnicity",
+        "dictionaryId": 442,
+        "dictionaryName": "纳西族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "026_Ethnicity",
+        "dictionaryId": 441,
+        "dictionaryName": "东乡族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "025_Ethnicity",
+        "dictionaryId": 440,
+        "dictionaryName": "水族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "024_Ethnicity",
+        "dictionaryId": 439,
+        "dictionaryName": "拉祜族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "023_Ethnicity",
+        "dictionaryId": 438,
+        "dictionaryName": "高山族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "022_Ethnicity",
+        "dictionaryId": 437,
+        "dictionaryName": "畲族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "021_Ethnicity",
+        "dictionaryId": 436,
+        "dictionaryName": "佤族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "020_Ethnicity",
+        "dictionaryId": 435,
+        "dictionaryName": "傈僳族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "019_Ethnicity",
+        "dictionaryId": 434,
+        "dictionaryName": "黎族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "018_Ethnicity",
+        "dictionaryId": 433,
+        "dictionaryName": "傣族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "017_Ethnicity",
+        "dictionaryId": 432,
+        "dictionaryName": "哈萨克族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "016_Ethnicity",
+        "dictionaryId": 431,
+        "dictionaryName": "哈尼族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "015_Ethnicity",
+        "dictionaryId": 430,
+        "dictionaryName": "土家族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "014_Ethnicity",
+        "dictionaryId": 429,
+        "dictionaryName": "白族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "013_Ethnicity",
+        "dictionaryId": 428,
+        "dictionaryName": "瑶族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "012_Ethnicity",
+        "dictionaryId": 427,
+        "dictionaryName": "侗族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "011_Ethnicity",
+        "dictionaryId": 426,
+        "dictionaryName": "满族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "010_Ethnicity",
+        "dictionaryId": 425,
+        "dictionaryName": "朝鲜族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "009_Ethnicity",
+        "dictionaryId": 424,
+        "dictionaryName": "布依族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "008_Ethnicity",
+        "dictionaryId": 423,
+        "dictionaryName": "壮族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "007_Ethnicity",
+        "dictionaryId": 422,
+        "dictionaryName": "彝族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "006_Ethnicity",
+        "dictionaryId": 421,
+        "dictionaryName": "苗族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "005_Ethnicity",
+        "dictionaryId": 420,
+        "dictionaryName": "维吾尔族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "004_Ethnicity",
+        "dictionaryId": 419,
+        "dictionaryName": "藏族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "003_Ethnicity",
+        "dictionaryId": 418,
+        "dictionaryName": "回族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "002_Ethnicity",
+        "dictionaryId": 417,
+        "dictionaryName": "蒙古族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "001_Ethnicity",
+        "dictionaryId": 416,
+        "dictionaryName": "汉族",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Ethnicity",
+        "remarks": "22"
+      }
+    ],
+    "maxPage": 1,
+    "pageNum": 1,
+    "pageSize": 1000,
+    "total": 59
+  },
+  "errorInfo": "",
+  "msg": "ok",
+  "result": true
+}

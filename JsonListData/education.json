@@ -1,0 +1,58 @@
+{
+  "data": {
+    "items": [
+      {
+        "dictionaryCode": "5_Diploma",
+        "dictionaryId": 479,
+        "dictionaryName": "其他",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Diploma",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "4_Diploma",
+        "dictionaryId": 478,
+        "dictionaryName": "博士研究生",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Diploma",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "3_Diploma",
+        "dictionaryId": 477,
+        "dictionaryName": "硕士研究生",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Diploma",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "2_Diploma",
+        "dictionaryId": 476,
+        "dictionaryName": "本科",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Diploma",
+        "remarks": "22"
+      },
+      {
+        "dictionaryCode": "1_Diploma",
+        "dictionaryId": 475,
+        "dictionaryName": "专科及以下",
+        "isDelete": 0,
+        "isRoot": 1,
+        "parentDictionaryCode": "Diploma",
+        "remarks": "22"
+      }
+    ],
+    "maxPage": 1,
+    "pageNum": 1,
+    "pageSize": 1000,
+    "total": 5
+  },
+  "errorInfo": "",
+  "msg": "ok",
+  "result": true
+}

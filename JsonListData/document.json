@@ -1,0 +1,28 @@
+{
+  "data": {
+    "items": [{
+      "dictionaryCode": "2_IdentificationType",
+      "dictionaryId": 405,
+      "dictionaryName": "其他",
+      "isDelete": 0,
+      "isRoot": 1,
+      "parentDictionaryCode": "IdentificationType",
+      "remarks": "22"
+    }, {
+      "dictionaryCode": "1_IdentificationType",
+      "dictionaryId": 404,
+      "dictionaryName": "居民身份证",
+      "isDelete": 0,
+      "isRoot": 1,
+      "parentDictionaryCode": "IdentificationType",
+      "remarks": "22"
+    }],
+    "maxPage": 1,
+    "pageNum": 1,
+    "pageSize": 1000,
+    "total": 2
+  },
+  "errorInfo": "",
+  "msg": "ok",
+  "result": true
+}

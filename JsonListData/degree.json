@@ -1,0 +1,44 @@
+{
+  "data": {
+    "items": [{
+      "dictionaryCode": "4_Degree",
+      "dictionaryId": 483,
+      "dictionaryName": "无学位",
+      "isDelete": 0,
+      "isRoot": 1,
+      "parentDictionaryCode": "Degree",
+      "remarks": "22"
+    }, {
+      "dictionaryCode": "3_Degree",
+      "dictionaryId": 482,
+      "dictionaryName": "博士",
+      "isDelete": 0,
+      "isRoot": 1,
+      "parentDictionaryCode": "Degree",
+      "remarks": "22"
+    }, {
+      "dictionaryCode": "2_Degree",
+      "dictionaryId": 481,
+      "dictionaryName": "硕士",
+      "isDelete": 0,
+      "isRoot": 1,
+      "parentDictionaryCode": "Degree",
+      "remarks": "22"
+    }, {
+      "dictionaryCode": "1_Degree",
+      "dictionaryId": 480,
+      "dictionaryName": "学士",
+      "isDelete": 0,
+      "isRoot": 1,
+      "parentDictionaryCode": "Degree",
+      "remarks": "22"
+    }],
+    "maxPage": 1,
+    "pageNum": 1,
+    "pageSize": 1000,
+    "total": 4
+  },
+  "errorInfo": "",
+  "msg": "ok",
+  "result": true
+}
